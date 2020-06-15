@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 #    tf.random.set_seed(i)
 
 
-date = "20200305"
+#date = "20200305"
 comb_path = r"D:\Lab\Gear Comb"
 single_path = r"D:\Lab\Gear Data new"
 dir_path = os.path.join("D:\\TFcode\\Final\\20200615", "data")
